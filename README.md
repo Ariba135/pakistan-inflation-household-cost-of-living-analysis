@@ -46,23 +46,17 @@ The objective is to investigate changes in household expenditure, compare income
 - Compared aggregate household consumption expenditure between survey periods.
 - 
 ## Data Visualizations
-
-### 1. Household Income
 ![Household Income](Visualizations/01_household_income.png)
 
-### 2. Household Expenditure
 ![Household Expenditure](Visualizations/02_household_expenditure.png)
 
-### 3. Consumption by Quintile
 ![Consumption by Quintile](Visualizations/03_consumption_by_quintile.png)
 
-### 4. Income Sources
-![Income Sources](Visualizations/04_income_sources.png)
+![Household Income Sources](Visualizations/04_income_sources.png)
 
-### 5. Household Size
 ![Household Size](Visualizations/05_household_size.png)
 
-
+![Expenditure Per Person](Visualizations/06_expenditure_per_person.png)
 ## Key Findings
 
 - Average monthly household income increased from PKR 41,545 in HIES 2018–19 to PKR 82,179 in HIES 2024–25.
