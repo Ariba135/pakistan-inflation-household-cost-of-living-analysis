@@ -47,23 +47,26 @@ The objective is to investigate changes in household expenditure, compare income
 - 
 ## Data Visualizations
 
-### Chart 1: Household Income Analysis
-![Chart 1](Visualizations/Chart_1.png)
 
-### Chart 2: Household Expenditure Analysis
-![Chart 2](Visualizations/Chart_2.png)
+## Data Visualizations
 
-### Chart 3: Rural and Urban Comparison
-![Chart 3](Visualizations/Chart_3.png)
+### 1. Household Income Analysis
+![Household Income Analysis](Visualizations/Chart_1.png)
 
-### Chart 4: Income Source Analysis
-![Chart 4](Visualizations/Chart_4.png)
+### 2. Average Monthly Household Consumption Expenditure
+![Average Monthly Household Consumption Expenditure](Visualizations/Chart_2.png)
 
-### Chart 5: Economic Indicators
-![Chart 5](Visualizations/Chart_5.png)
+### 3. Monthly Household Consumption by Quintile
+![Monthly Household Consumption by Quintile](Visualizations/Chart_3.png)
 
-### Chart 6: Additional Analysis
-![Chart 6](Visualizations/Chart_6.png)
+### 4. Sources of Household Income in Pakistan: HIES Comparison
+![Sources of Household Income](Visualizations/Chart_4.png)
+
+### 5. Average Household Size: HIES 2018–19 vs 2024–25
+![Average Household Size](Visualizations/Chart_5.png)
+
+### 6. Estimated Monthly Expenditure per Household Member
+![Estimated Monthly Expenditure per Household Member](Visualizations/Chart_6.png)
 
 
 ## Key Findings
