@@ -59,7 +59,7 @@ The objective is to investigate changes in household expenditure, compare income
 ![Expenditure Per Person](Visualizations/06_expenditure_per_person.png)
 ## Excel Dashboard
 
-[Download the Pakistan HIES Excel Dashboard](Pakistan_HIES_Income_Expenditure_Dashboard.xlsx)
+[Download the Pakistan HIES Excel Dashboard](Pakistan_HIES_Income_Expenditure_Dashboard.xlsx.xlsx)
 ## Key Findings
 
 - Average monthly household income increased from PKR 41,545 in HIES 2018–19 to PKR 82,179 in HIES 2024–25.
