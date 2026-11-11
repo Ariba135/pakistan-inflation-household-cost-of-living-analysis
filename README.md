@@ -44,6 +44,27 @@ The objective is to investigate changes in household expenditure, compare income
 - Compared average monthly household consumption across quintiles.
 - Examined the relationship between household income and consumption.
 - Compared aggregate household consumption expenditure between survey periods.
+- 
+## Data Visualizations
+
+### Chart 1: Household Income Analysis
+![Chart 1](Visualizations/Chart_1.png)
+
+### Chart 2: Household Expenditure Analysis
+![Chart 2](Visualizations/Chart_2.png)
+
+### Chart 3: Rural and Urban Comparison
+![Chart 3](Visualizations/Chart_3.png)
+
+### Chart 4: Income Source Analysis
+![Chart 4](Visualizations/Chart_4.png)
+
+### Chart 5: Economic Indicators
+![Chart 5](Visualizations/Chart_5.png)
+
+### Chart 6: Additional Analysis
+![Chart 6](Visualizations/Chart_6.png)
+
 
 ## Key Findings
 
