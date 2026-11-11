@@ -1,0 +1,90 @@
+# Pakistan Household Income and Expenditure Analysis
+### Comparative Analysis of HIES 2018–19 and HIES 2024–25
+
+## 1. Project Overview
+
+This project examines household income, consumption expenditure, consumption patterns, income sources, and household size in Pakistan. It compares data from the Household Integrated Economic Survey (HIES) 2018–19 and HIES 2024–25.
+
+The purpose of this analysis is to identify changes in household economic conditions, understand differences across consumption quintiles, and explore the composition of household income.
+
+The analysis was conducted using Excel PivotTables, PivotCharts, and an interactive-style dashboard.
+
+## 2. Key Findings
+
+### 2.1 Average Monthly Household Income
+
+Average monthly household income in Pakistan increased from PKR 41,545 in HIES 2018–19 to PKR 82,179 in HIES 2024–25, representing an approximate nominal increase of 97.8%.
+
+Urban households reported higher average monthly income than rural households in both survey periods. In 2024–25, average urban household income was PKR 96,767, compared with PKR 72,157 in rural areas.
+
+### 2.2 Average Monthly Household Consumption Expenditure
+
+Average monthly household consumption expenditure increased from PKR 37,159 to PKR 79,150, an approximate nominal increase of 113%.
+
+Urban households recorded higher consumption expenditure than rural households in both periods. This indicates a difference in average household spending between urban and rural areas.
+
+### 2.3 Household Consumption by Consumption Quintile
+
+Consumption increased across all five consumption quintiles between the two survey periods.
+
+The highest consumption quintile (Q5) recorded the largest increase, rising from PKR 58,206 to PKR 134,684. The lowest quintile (Q1) increased from PKR 21,726 to PKR 39,998.
+
+The findings show substantial differences in average consumption levels between lower- and higher-consumption households.
+
+### 2.4 Share of Monthly Household Income by Source
+
+Wages and salaries remained the largest source of household income, accounting for approximately 41.68% in HIES 2018–19 and 42.00% in HIES 2024–25.
+
+Foreign remittances increased from 4.96% to 7.77%, while gifts and assistance, including BISP transfers, increased from 2.12% to 4.57%.
+
+The share of owner-occupied housing services declined from 10.52% to 5.59%. These changes indicate shifts in the composition of reported household income sources.
+
+### 2.5 Average Household Size
+
+Average household size in Pakistan declined from 6.24 persons in HIES 2018–19 to 5.98 persons in HIES 2024–25.
+
+A similar decline was observed in both rural and urban areas. Rural household size decreased from 6.40 to 6.18 persons, while urban household size decreased from 5.97 to 5.69 persons.
+
+### 2.6 Average Monthly Household Income by Consumption Quintile
+
+Average household income increased across all five consumption quintiles.
+
+The highest quintile (Q5) recorded an increase from PKR 63,544 to PKR 139,317, while the lowest quintile (Q1) increased from PKR 23,192 to PKR 41,851.
+
+The difference between the lowest and highest quintiles highlights variations in household income across consumption groups.
+
+## 3. Methodology
+
+The project followed these steps:
+
+1. Organized and prepared the HIES dataset.
+2. Imported and structured the data for analysis.
+3. Used PivotTables to summarize household indicators.
+4. Compared HIES 2018–19 and HIES 2024–25.
+5. Created six PivotCharts to visualize the findings.
+6. Combined the charts into a consolidated Excel dashboard.
+
+## 4. Key Limitations
+
+- The comparison covers two survey periods and does not represent every year between them.
+- Monetary values are presented in nominal PKR and have not been adjusted for inflation.
+- Therefore, increases in income and expenditure should not automatically be interpreted as improvements in real purchasing power or living standards.
+- Some provincial household-size observations are available for only one survey period, so the comparison focuses on Pakistan, rural, and urban results.
+
+## 5. Conclusion
+
+The comparative analysis shows substantial nominal increases in household income and consumption expenditure between HIES 2018–19 and HIES 2024–25. Urban households reported higher average income and expenditure than rural households, while the highest consumption quintile recorded the largest consumption levels.
+
+Wages and salaries continued to be the leading source of household income. The analysis also identified changes in the shares of several income sources and a modest decline in average household size.
+
+Overall, this project demonstrates how data cleaning, aggregation, comparative analysis, and visualization can be used to communicate important household economic indicators.
+
+## 6. Tools and Skills Demonstrated
+
+- Microsoft Excel
+- PivotTables and PivotCharts
+- Data cleaning and preparation
+- Descriptive and comparative analysis
+- Data visualization
+- Dashboard development
+- Interpretation and communication of data insights
